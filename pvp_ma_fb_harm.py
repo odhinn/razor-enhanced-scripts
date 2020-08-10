@@ -2,7 +2,7 @@
 #                     PVP - Chaining Magic Arrow and Fireball with Harm                      #
 ##############################################################################################
 # Authors   : Odhinn, Mourn                                                                  #
-# Shard     : Quingis | htttp://www.quingis.com                                              # 
+# Server    : Quingis | htttp://www.quingis.com                                              # 
 # Info      : This script let you chaining Magic Arrow and Fireball and cast Harm spell      #
 #             if you close to enemy. There is no rapid repetition of magic arrow so spamming #
 #             it useless except initial hit.                                                 #

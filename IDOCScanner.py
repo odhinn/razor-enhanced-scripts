@@ -2,7 +2,7 @@
 #                                    IDOC Scanner                                            #
 ##############################################################################################
 # Author    : Odhinn | https://www.github.com/odhinn                                         #
-# Server    : Quingis UO | http://www.quingis.com                                            #                      
+# Server    : Quingis UO | http://www.quingis.com                                            #                    
 ##############################################################################################
 
 from System.Collections.Generic import List
