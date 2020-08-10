@@ -1,5 +1,5 @@
 ##############################################################################################
-#                        PVP - Chaining Magic Arrow and Fireball                             #
+#                     PVP - Chaining Magic Arrow and Fireball with Harm                      #
 ##############################################################################################
 # Authors   : Odhinn, Mourn                                                                  #
 # Shard     : Quingis | htttp://www.quingis.com                                              # 
