@@ -3,8 +3,9 @@
 ##############################################################################################
 # Authors   : Odhinn, Mourn                                                                  #
 # Shard     : Quingis | htttp://www.quingis.com                                              # 
-# Info      : This script let you chaining Magic Arrow and Fireball. There is no rapid       # 
-#             repetition of magic arrow so spamming it useless except initial hit.           #
+# Info      : This script let you chaining Magic Arrow and Fireball and cast Harm spell      #
+#             if you close to enemy. There is no rapid repetition of magic arrow so spamming #
+#             it useless except initial hit.                                                 #
 #             So we are combining it with Fireball, Magic Arrow chain. You can also use this #
 #             for fizzle your oppenent while doing some moderate damage.                     #
 #                                                                                            #
